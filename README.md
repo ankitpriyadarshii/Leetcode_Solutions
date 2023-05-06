@@ -3,3 +3,5 @@ This Repository is for my Leetcode Practice problems solutions. The language use
 ------------------------------------------------------------------------------------------------------------
 
 * [Problem 1](https://leetcode.com/problems/build-array-from-permutation/description/) -> [Solution](https://github.com/ankitpriyadarshii/Leetcode_Solutions/blob/main/Leetcode_BuildArrayFromPermutation.cpp)
+
+* [Problem 2](https://leetcode.com/problems/concatenation-of-array/) -> [Solution](https://github.com/ankitpriyadarshii/Leetcode_Solutions/blob/main/Leetcode_ConcatenationOfArray.cpp)
