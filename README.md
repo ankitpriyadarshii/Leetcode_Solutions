@@ -11,3 +11,5 @@ This Repository is for my Leetcode Practice problems solutions. The language use
 * [Problem 4](https://leetcode.com/problems/left-and-right-sum-differences/description/) -> [Solution](https://leetcode.com/problems/left-and-right-sum-differences/solutions/3497398/c-solution/)
 
 * [Problem 5](https://leetcode.com/problems/sum-multiples/description/) -> [Solution](https://leetcode.com/problems/sum-multiples/solutions/3505234/easy-5-lines-c-solution-o-n/)
+
+* [Problem 6](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) -> [Solution](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/3512835/easy-c-solution-in-o-n-time-complexity/)
