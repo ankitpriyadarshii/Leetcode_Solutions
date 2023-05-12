@@ -13,3 +13,5 @@ This Repository is for my Leetcode Practice problems solutions. The language use
 * [Problem 5](https://leetcode.com/problems/sum-multiples/description/) -> [Solution](https://leetcode.com/problems/sum-multiples/solutions/3505234/easy-5-lines-c-solution-o-n/)
 
 * [Problem 6](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/) -> [Solution](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/3512835/easy-c-solution-in-o-n-time-complexity/)
+
+* [Problem 7](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/) -> [Solution](https://leetcode.com/problems/minimum-distance-to-the-target-element/solutions/3516534/easy-c-solution-in-o-n-time-complexity/)
